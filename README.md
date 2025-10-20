@@ -1,4 +1,4 @@
-## Welcome to Xyzaroom 👋
+## Welcome to 👋
 
 <!--
 **xyzaroom/xyzaroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Xyzaroom Records Inc.</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<h3 align="left">Connect with us:</h3>
-<p align="left">
+<h3 align="center">Connect with us:</h3>
+<p align="center">
 <a href="https://twitter.com/xyzaroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyzaroom" height="30" width="40" /></a>
 <a href="https://instagram.com/xyzaroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyzaroom" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xyzaroom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyzaroom" height="30" width="40" /></a>
