@@ -1,6 +1,6 @@
-# Xyzaroom Records Inc.
+# template
 
-**Xyzaroom Records Inc.** is a passionate frontend project dedicated to [Describe project goals/mission].
+**Xyzaroom** is a passionate frontend project dedicated to [Describe project goals/mission].
 
 ## Key Features & Benefits
 
